@@ -1,0 +1,29 @@
+{
+  "name": "iwsfeaturemanagement",
+  "description": "Web application to facilitate the management of feature requests.",
+  "main": "index.js",
+  "authors": [
+    "Heidi Heckathorn"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "IWS",
+    "feature",
+    "management",
+    "client",
+    "product"
+  ],
+  "homepage": "https://github.com/stapelhl/IWSFeatureManagement",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "knockout": "^3.4.2",
+    "bootstrap": "^3.3.7"
+  }
+}
